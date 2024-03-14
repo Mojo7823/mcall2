@@ -1,0 +1,15 @@
+.selected {
+    background-color: #ddd;
+}
+#highlight-customer {
+font-size: 2em;
+text-align: center;
+background-color: gray;
+color: white;
+}
+#broadcast-button {
+color: white;
+}
+#change-button {
+color: white;
+}
